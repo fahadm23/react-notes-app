@@ -8,3 +8,4 @@
 - The most recently modified note will be moved to the top
 - Preview tab to see what your note looks like
 - Ability to use markdown to style note
+- Notes are saved in localStorage
